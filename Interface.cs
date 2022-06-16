@@ -8,5 +8,6 @@ namespace WebApplication1
    public interface Interface
     {
         public void A1();
+        public void A2();
     }
 }
